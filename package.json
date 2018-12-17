@@ -1,0 +1,16 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.1.0",
+  "description": "React boilerplate project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "boilerplate"
+  ],
+  "author": "Shadrach Temitayo <shadrachtemitayo@gmail.com>",
+  "license": "ISC"
+}
