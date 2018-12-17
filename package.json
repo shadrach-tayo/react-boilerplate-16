@@ -4,6 +4,7 @@
   "description": "React boilerplate project",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -12,5 +13,9 @@
     "boilerplate"
   ],
   "author": "Shadrach Temitayo <shadrachtemitayo@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  }
 }
