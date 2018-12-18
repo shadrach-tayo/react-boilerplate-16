@@ -1,3 +1,3 @@
-const getGreeting = name => `Hello ${name}`;
+const getGreeting = name => `Hello ${name}`
 
-export default getGreeting;
+export default getGreeting
